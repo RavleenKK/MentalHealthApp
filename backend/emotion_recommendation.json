@@ -1,0 +1,51 @@
+{
+  "anger": {
+    "recommendations": [
+      "Take a short break and practice slow, deep breathing for 60 seconds.",
+      "Write down what triggered the anger to understand the cause clearly.",
+      "Engage in a quick physical activity like a walk to release built-up tension."
+    ]
+  },
+  "disgust": {
+    "recommendations": [
+      "Identify what specifically caused the feeling and whether it can be avoided in the future.",
+      "Talk to someone you trust to express how you feel.",
+      "Try grounding yourself by focusing on neutral sensory inputs (touch, smell, sound)."
+    ]
+  },
+  "fear": {
+    "recommendations": [
+      "Pause and remind yourself that you are safe in the present moment.",
+      "Break the fear into smaller thoughts and challenge the worst-case scenario.",
+      "Do a calming activity such as meditation, soft music, or slow breathing."
+    ]
+  },
+  "joy": {
+    "recommendations": [
+      "Celebrate the moment by writing it down or sharing it with someone.",
+      "Engage in an activity that enhances your happiness, like music or hobbies.",
+      "Use this positive energy to work on something meaningful to you."
+    ]
+  },
+  "neutral": {
+    "recommendations": [
+      "Take a moment to reflect on how you're feeling physically and mentally.",
+      "Do a small activity that brings clarity — journaling, stretching, or a short walk.",
+      "Try to set a simple goal or intention for the next hour of your day."
+    ]
+  },
+  "sadness": {
+    "recommendations": [
+      "Allow yourself to feel it, crying or journaling can be healthy outlets.",
+      "Reach out to a close friend or family member and talk about what’s weighing on you.",
+      "Do one small self-care activity such as drinking water, taking a warm shower, or stepping outside."
+    ]
+  },
+  "surprise": {
+    "recommendations": [
+      "Pause and evaluate whether the surprise is positive or negative.",
+      "Give yourself a moment to adjust before reacting or making decisions.",
+      "If it’s positive, celebrate it; if it’s overwhelming, breathe and ground yourself."
+    ]
+  }
+}
